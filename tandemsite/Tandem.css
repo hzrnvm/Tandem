@@ -9,14 +9,14 @@ Body{
 #HomeMenu{
 	list-style-type: none;
 	margin: 0;
-	border: .1vw solid skyblue;
+	border: .1vw none skyblue;
 	background-color: blue;
-	padding: 1.55vw;
+	padding: 1.05vw;
 	border: .25vw solid blue;
 	margin-bottom: 6.2vw;
 	position: fixed;
 	top: 0;
-	border: .1vw solid skyblue;
+	border: .1vw none skyblue;
 	width: 100%;
 	right: 0;
 	left: 0;
