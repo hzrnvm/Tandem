@@ -21,3 +21,7 @@ Body{
 	right: 0;
 	left: 0;
 }
+#navigation li {
+	display: inline;
+	padding: 1.55vw;
+}
