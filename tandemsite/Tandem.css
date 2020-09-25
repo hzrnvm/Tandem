@@ -2,8 +2,20 @@
 Body{
   background-color: #ff7f7f
 }
-.Title{
+#Title{
  text-align: center
  font-size: 100px;
  padding-up: 30px;
+}
+#HomeMenu{
+  background-color: ; coral
+	padding: 1.25vw;
+	border: .25vw none;
+	margin-bottom: 6.2vw;
+	position: fixed;
+	top: 0;
+	border: .1vw none;
+	width: 100%;
+	right: 0;
+	left: 0;
 }
