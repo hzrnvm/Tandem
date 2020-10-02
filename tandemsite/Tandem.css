@@ -5,8 +5,8 @@ Body{
 #Title{
  text-align: center
  font-size: 125px;
- padding-up: 60px;
- margin-up: 60px;
+ padding: 60px;
+ margin-top: 60px;
 }
 #HomeMenu{
   list-style-type: none;
