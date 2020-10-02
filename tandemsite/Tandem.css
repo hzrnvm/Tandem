@@ -4,22 +4,15 @@ Body{
 }
 #Title{
  text-align: center
- font-size: 125px;
- padding-top: 40px;
- margin-top: 40px;
+ font-size: 125px
+ padding-top: 25px;
+ margin-top: 25px;
 }
 #HomeMenu{
   margin: 0;
-  border: .1vw solid coral;
-  background-color: ; teal;
+  background-color: #008080;
   padding: 1.25vw;
   border: .25vw none;
-  margin-bottom: 6.2vw;
-  top: 0;
-  border: .1vw solid coral;
-  width: 100%;
-  right: 0;
-  left: 0;
   font-size: 25px;
-  
+  color: #000000;
 }
