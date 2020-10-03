@@ -9,8 +9,8 @@ Body{
  margin-top: 25px;
 }
 #HomeMenu{
-  padding: 1.25vm;
-  margin: 1.25vm;
+  padding: 1.25vw;
+  margin: 0;
   background-color: #00b3b3;
   font-size: 25px;
   color: #dc143c;
