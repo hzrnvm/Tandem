@@ -1,0 +1,10 @@
+*{font-family: Helvetica;}
+Body{
+  background-image: url("https://cdn3.dualshockers.com/wp-content/uploads/2020/05/Zelda-wallpaper-3.jpg");
+}
+#Title{
+ text-align: center
+ font-size: 125px
+ padding-top: 25px;
+ margin-top: 25px;
+}
