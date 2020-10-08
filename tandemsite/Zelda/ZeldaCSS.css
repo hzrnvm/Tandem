@@ -4,8 +4,15 @@ Body{
   background-size: 100%;
 }
 #Title{
- text-align: center;
+ text-align: left;
  font-size: 125px;
  padding-top: 25px;
  margin-top: 25px;
+}
+#HomeMenu{
+  padding: 1.25vw;
+  margin: 0;
+  background-color: #00b3b3;
+  font-size: 15px;
+  color: #dc143c;
 }
