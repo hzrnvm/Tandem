@@ -18,7 +18,8 @@ Body{
   height: 14px;
 }
 
-#AttDef h3 {
+#AttDef p {
   position: relative;
-
+   top: 18px;
+  left: 10px;
 }
