@@ -12,14 +12,26 @@ Body{
   margin-top: 25px;
 }
 
-#AttDef img {
+#Attack img {
   float: left;
-  width: 14px;
-  height: 14px;
+  width: 17px;
+  height: 17px;
 }
 
-#AttDef p {
+#Attack h3 {
   position: relative;
-   top: 18px;
+  top: 18px;
+  left: 10px;
+}
+
+#Defense img {
+  float: left;
+  width: 17px;
+  height: 17px;
+}
+
+#Defense h3 {
+  position: relative;
+  top: 18px;
   left: 10px;
 }
