@@ -1,0 +1,28 @@
+<!DOCTYEE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./NatMatCSS.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <base target="_blank">
+    <title>Apple</title>
+    <h1>Apple</h1>
+    <img src="https://www.zeldadungeon.net/wiki/images/thumb/c/c3/Apple-botw.png/120px-Apple-botw.png" alt="Apple">
+  </head>
+  <body>
+    <h3>Apples have no special effects.</h3>
+    <h3>Hearts Recovered when eaten alone: 1/2</h3>
+    <h3>Hearts Recovered when dropped on a plain fire: 1</h3>
+    <img src="https://www.zeldadungeon.net/wiki/images/0/0d/Baked_Apple.png" alt="Baked Apple">
+    <hr>
+    <p>Apples are the most common and average fruits you will find in Hyrule. They're kinda useful when fighting very weak enemies.</p>
+    <hr>
+    <h4>Where:</h4>
+    <p>They can be found anywhere in Hyrule; on trees, in barrels, in crates, or bought.</p>
+    <hr>
+    <h4>In Game Description</h4>
+    <p>A common fruit found on trees all around Hyrule. Eat it fresh, or cook it  to increase its effect.</p>
+    <hr>
+    <a href="../ZeldaHome" id="Home"><button type="button">Go Home!</button></a>
+  </body>
+</html>
