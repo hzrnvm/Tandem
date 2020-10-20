@@ -15,16 +15,17 @@ Body{
   background-color: #00b3b3;
   font-size: 15px;
   color: #dc143c;
-  width: 100%;
+  width: 90%;
   height: 120%
-  text-align: left;
+  float: left;
 }
 #ButtBack{
   background-color: azure;
   margin: none;
   padding: 10px 10px;
-  width: 100%;
+  width: 90%;
   height: 120%
+  text-align: left;
 }
 .button{
   text-align: center;
