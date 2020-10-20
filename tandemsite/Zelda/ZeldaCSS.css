@@ -18,9 +18,9 @@ Body{
 }
 #ButtBack{
   background-color: azure;
-  margin-left: none;
-  margin-right: none;
+  margin: none;
   padding-bottom: 6px;
+  width: 100%;
 }
 .button{
   text-align: center;
