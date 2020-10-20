@@ -17,6 +17,7 @@ Body{
   color: #dc143c;
   width: 100%;
   height: 120%
+  text-align: left;
 }
 #ButtBack{
   background-color: azure;
