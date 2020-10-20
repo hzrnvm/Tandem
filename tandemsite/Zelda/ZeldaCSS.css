@@ -11,21 +11,15 @@ Body{
 }
 #HomeMenu{
   padding: 1vw;
-  margin: none;
+  margin: -5px;
   background-color: #00b3b3;
   font-size: 15px;
   color: #dc143c;
-  width: 90%;
-  height: 120%
-  float: left;
 }
 #ButtBack{
   background-color: azure;
-  margin: none;
+  margin: -3px;
   padding: 10px 10px;
-  width: 90%;
-  height: 120%
-  text-align: left;
 }
 .button{
   text-align: center;
