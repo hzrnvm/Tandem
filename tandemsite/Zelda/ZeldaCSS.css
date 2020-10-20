@@ -11,15 +11,14 @@ Body{
 }
 #HomeMenu{
   padding: 1vw;
-  margin: -5px;
+  margin: -15px;
   background-color: #00b3b3;
   font-size: 15px;
   color: #dc143c;
-  width: 100%;
 }
 #ButtBack{
   background-color: azure;
-  margin: -3px;
+  margin: -10px;
   padding: 10px 10px;
 }
 .button{
