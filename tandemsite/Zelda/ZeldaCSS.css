@@ -10,11 +10,11 @@ Body{
   padding-top: 10px;
 }
 #HomeMenu{
-  padding: 5vw;
+  /*padding: 5vw;*/
   margin: -10px;
   background-color: #00b3b3;
   font-size: 18px;
-  color: #dc143c;
+  color: Black;
   width: auto;
 }
 #ButtBack{
