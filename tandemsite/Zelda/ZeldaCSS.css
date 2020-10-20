@@ -4,19 +4,11 @@ Body{
   background-size: 100%;
   background-position: absolute;
 }
-#Title{
+#GoHome{
   text-align: left;
   font-size: 70px;
-  padding-top: 10px;
-}
-#HomeMenu{
-  /*padding: 5vw;*/
-  margin: -10px;
-  background-color: #00b3b3;
-  font-size: 18px;
-  color: Black;
-  width: auto;
-  padding: 10px 10px;
+  padding-top: 8px;
+  padding-bottom: 4px;
 }
 #ButtBack{
   background-color: azure;
