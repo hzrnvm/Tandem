@@ -16,6 +16,7 @@ Body{
   font-size: 18px;
   color: Black;
   width: auto;
+  padding: 10px 10px;
 }
 #ButtBack{
   background-color: azure;
