@@ -7,13 +7,39 @@ Body{
 #Title{
   text-align: left;
   font-size: 70px;
-  padding-top: 25px;
-  margin-top: 25px;
+  padding-top: 10px;
 }
 #HomeMenu{
-  padding: 1.25vw;
+  padding: 1vw;
   margin: 0;
   background-color: #00b3b3;
   font-size: 15px;
   color: #dc143c;
+}
+#ButtBack{
+  background-color: mistyrose;
+}
+.button{
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 5px 15px 5px 15px;
+}
+.AppleButton{
+  border: red 2px solid;
+  transition-duration: 0.4s;
+}
+.AppleButton:hover{
+  background-color: red;
+  color: white;
+  cursor: none;
+}
+.ChuchuButton{
+  border: #6fcddb 2px solid;
+  transition-duration: 0.4s;
+}
+.ChuchuButton:hover{
+  background-color: #6fcddb;
+  color: white;
+  cursor: none;
 }
