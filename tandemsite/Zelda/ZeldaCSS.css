@@ -10,6 +10,10 @@ Body{
   padding-top: 8px;
   padding-bottom: 4px;
 }
+#slidey{
+  background-color: azure;
+  
+}
 .button{
   text-align: center;
   text-decoration: none;
@@ -19,6 +23,7 @@ Body{
 .AppleButton{
   border: red 2px solid;
   transition-duration: 0.4s;
+  padding: 6px;
 }
 .AppleButton:hover{
   background-color: red;
@@ -28,6 +33,7 @@ Body{
 .ChuchuButton{
   border: #6fcddb 2px solid;
   transition-duration: 0.4s;
+  padding: 6px;
 }
 .ChuchuButton:hover{
   background-color: #6fcddb;
