@@ -15,6 +15,8 @@ Body{
   overflow: auto;
   white-space: nowrap;
   align-items: center;
+  margin: -2;
+  padding: 2;
 }
 .button{
   text-align: center;
