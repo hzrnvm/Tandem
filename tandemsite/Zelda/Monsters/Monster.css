@@ -3,7 +3,9 @@
 Body{
   background-image: url("https://pixelburg.tv/wp-content/uploads/2017/01/1_E3_WiiU_ZBOTW_Screenshot_WiiU_TheLegendofZeldaBreathoftheWild_E32016_background_02.jpg");
   background-size: 100%;
-  background-position: absolute;
+  background-attachment: fixed;
+  background-postition: center center;
+  background-repeat: no-repeat;
 }
 
 #MonsterTitle{
