@@ -1,0 +1,32 @@
+*{font-family: Rubik;}
+
+Body{
+  background-image: url("https://pixelburg.tv/wp-content/uploads/2017/01/1_E3_WiiU_ZBOTW_Screenshot_WiiU_TheLegendofZeldaBreathoftheWild_E32016_background_02.jpg");
+  background-size: 100%;
+  background-position: absolute;
+}
+
+#NatTitle{
+  text-align: left;
+  font-size: 75px;
+  padding-top: 25px;
+  margin-top: 25px;
+}
+
+/* #h3 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+} */
+
+#Defense img {
+  float: left;
+  width: 17px;
+  height: 17px;
+}
+
+#Defense h3 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+} 
