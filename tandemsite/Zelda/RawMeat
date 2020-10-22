@@ -1,0 +1,33 @@
+<!DOCTYEE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./Materials.css" type="text/css" rel="stylesheet">
+    <link href="../RAS.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <title>Raw Meat</title>
+    <h1 id="MatTitle">Raw Meat</h1>
+    <img src="https://www.zeldadungeon.net/wiki/images/e/e9/Raw_Meat.png" alt="Raw Meat">
+  </head>
+  <body>
+    <h3>Raw Meat has no special effects.</h3>
+    <h3>Raw Meat heals 1 heart when eaten plain (or frozen), 1.5 hearts when roasted, and </h3>
+    <img src="https://www.zeldadungeon.net/wiki/images/4/45/Seared_Steak.png" alt="Seared Steak" class="Roasted">
+    <img src="https://www.zeldadungeon.net/wiki/images//6/62/Icy_Meat.png" alt="Icy Meat" class="Icy">
+    <hr>
+    <p>It's a basic beginners meat. After a while, you should probably stop hunting it. Prime and Gourmet meat and vegetables are usually bettter.</p>
+    <hr>
+    <h4>How to Obtain:</h4>
+    <p>Most animals drop this, unless they're in HEB (in which case they drop better meat). You can also buy in some places.</p>
+    <hr>
+    <h4>In Game Description</h4>
+    <p>Meat obtained from animals in plains and forests. You can eat it raw, but cooking it will make it more delicious and nutritious.</p>
+    <hr>
+    <h4>In Game Roasted Description</h4>
+    <p>Raw meat cooked over an open flame. Cooking it has increased its flavor and the number of hearts it provides.</p>
+    <hr>
+    <h4>In Game Icy Description</h4>
+    <p>A frozen slab of animal meat. If you can manage to chew it up and swallow it, you'll restore some hearts and lower your body temperature.</p>
+    <a href="../ZeldaHome"><button class="button">Go Home!</button></a>
+  </body>
+</html>
