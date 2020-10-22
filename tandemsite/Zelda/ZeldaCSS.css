@@ -54,3 +54,13 @@ Body{
   color: white;
   cursor: none; 
 }
+.MeatButton{
+  border: #ff242f 2px solid;
+  transition-duration: 0.4s;
+  padding: 8px;
+}
+.MeatButton:hover{
+  background-color: #ff242f;
+  color: white;
+  cursor: none; 
+}
