@@ -1,19 +1,7 @@
-#Attack img {
-  float: left;
-  width: 17px;
-  height: 17px;
-}
-
 #Attack h3 {
   position: relative;
   top: 18px;
   left: 10px;
-}
-
-#Defense img {
-  float: left;
-  width: 17px;
-  height: 17px;
 }
 
 #Defense h3 {
