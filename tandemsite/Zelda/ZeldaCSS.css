@@ -44,3 +44,13 @@ Body{
   color: white;
   cursor: none;
 }
+.HorseButton{
+  border: #A52A2A 2px solid;
+  transition-duration: 0.4s;
+  padding: 8px;
+}
+.HorseButton:hover{
+  background-color: #A52A2A;
+  color: white;
+  cursor: none; 
+}
