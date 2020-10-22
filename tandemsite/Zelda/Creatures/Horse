@@ -1,0 +1,27 @@
+<!DOCTYEE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./Creature.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <base target="_blank">
+    <title>Horse: Goron City</title>
+    <h1>Horse</h1>
+    <img src="https://www.zeldadungeon.net/wiki/images/2/23/Link_Horse_-_BOTW_art.png" alt="Horse">
+  </head>
+  <body>
+    <h3>The Horse has no drops</h3>
+    <h3>The Horse is not always domesticated, but when found undomesticated it can be tamed (but it won't become invincible).</h3>
+    <h3>The Horse is ridable.</h3>
+    <hr>
+    <p>This is a horse. I would say it's the apple of creatures, but you can't eat it, so it's not. They're pretty cool if you wanna get somewhere fast, but since they can't climb cliffs or swim, I don't prefer to use them. It's faster to fast-travel anyways. This is just Ad00m's opinon though.</p>
+    <hr>
+    <h4>Where:</h4>
+    <p>They can be found everywhere (especially fields).</p>
+    <hr>
+    <h4>In Game Description</h4>
+    <p>These can most often be found on plains. Their usefulness as transportation has made them valuable since ancient times. That said, wild horses do tend to get spooked and run off when approached, so if you're looking to snag one, it's best to sneak up on it.</p>
+    <hr>
+    <a href="../ZeldaHome"><button type="button">Go Home!</button></a>
+  </body>
+</html>
