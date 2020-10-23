@@ -74,3 +74,13 @@ Body{
   color: white;
   cursor: none; 
 }
+.ArmorButton{
+  border: #5454E5 2px solid;
+  transition-duration: 0.4s;
+  padding: 8px;
+}
+.ArmorButton:hover{
+  background-color: #5454E5;
+  color: white;
+  cursor: none; 
+}
