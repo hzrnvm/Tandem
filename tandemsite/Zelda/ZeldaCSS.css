@@ -15,15 +15,12 @@ Body{
   overflow: auto;
   white-space: nowrap;
   align-items: center;
-  margin: -2;
-  padding: 2;
 }
 .button{
   text-align: center;
-  text-decoration: none;
   display: inline-block;
-  margin: 5px;
-  font-size: 17px;
+  margin: 0px;
+  font-size: 14px;
 }
 .AppleButton{
   border: red 2px solid;
