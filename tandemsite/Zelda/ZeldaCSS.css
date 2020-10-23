@@ -22,7 +22,8 @@ Body{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 5px 10px 5px 10px;
+  margin: 5px;
+  font-size: 17px;
 }
 .AppleButton{
   border: red 2px solid;
