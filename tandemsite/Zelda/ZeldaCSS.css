@@ -20,11 +20,13 @@ Body{
   display: inline-block;
   margin: none;
   font-size: 10px;
+  float: left;
 }
 .AppleButton{
   border: red 2px solid;
   transition-duration: 0.4s;
   padding: 8px;
+  
 }
 .AppleButton:hover{
   background-color: red;
