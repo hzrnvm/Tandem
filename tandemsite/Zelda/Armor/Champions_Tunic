@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./ArmorCSS.css" type="text/css" rel="stylesheet">
+    <link href="../RAS.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <title>Champion's Tunic: Goron City</title>
+    <h1>Champion's Tunic</h1>
+    <img src="https://www.zeldadungeon.net/wiki/images/3/30/Champion-tunic.png" alt="Champion's Tunic">
+  </head>
+  <body>
+    <h3>Base Defense: 5</h3>
+    <h3>Powers: It shows the health bar of enemies.</h3>
+    <h3>Full set ★★ power: None</h3>
+    <hr>
+    <p>This is the strongest armor when fully upgraded. It's also really nice how you can see the enemies HP meters, so you can get some cool info. You wouldn't really need that, because you have this thing. I need that thing.</p>
+    <hr>
+    <h4>Where:</h4>
+    <p>After getting your first memory, talk to Impa, and she will give you the Champion's Tunic</p>
+    <hr>
+    <h4>In Game Description</h4>
+    <p>In ancient Hyrule, this garment could only be worn by the one who had earned the respect of the royal family. equipping it will reveal an enemy's life gauge.</p>
+    <hr>
+    <h3>Great Fairy Fountain</h3>
+    <table>
+      <tr>
+        <td>8</td>
+        <td>14</td>
+        <td>22</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>3x Silent Princess</td>
+        <td>3x Silent Princess & 2x Shard of Farosh's Horn</td>
+        <td>3x Silent Princess & 2x Shard of Naydra's Horn</td>
+        <td>10x Silent Princess & 2x Shard of Dinraal's Horn</td>
+      </tr>
+    </table>
+    <a href="../ZeldaHome"><button type="button">Go Home!</button></a>
+  </body>
+</html>
