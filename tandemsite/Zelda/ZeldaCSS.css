@@ -64,3 +64,13 @@ Body{
   color: white;
   cursor: none; 
 }
+.SwordButton{
+  border: #666999 2px solid;
+  transition-duration: 0.4s;
+  padding: 8px;
+}
+.SwordButton:hover{
+  background-color: #666999;
+  color: white;
+  cursor: none; 
+}
