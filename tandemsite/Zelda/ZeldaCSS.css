@@ -14,13 +14,12 @@ Body{
   background-color: azure;
   overflow: auto;
   white-space: nowrap;
-  align-items: center;
 }
 .button{
   text-align: center;
   display: inline-block;
-  margin: 0px;
-  font-size: 14px;
+  margin: none;
+  font-size: 10px;
 }
 .AppleButton{
   border: red 2px solid;
