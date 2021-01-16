@@ -2,6 +2,12 @@
 Body{
   background-color: #303030
 }
+#TBAtitle{
+  align-content: center;
+}
+#TBAtitle:hover{
+  opacity: 0.8;
+}
 #papa{
-  color: #000
+  color: #fff
 }
