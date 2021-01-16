@@ -3,11 +3,16 @@ Body{
   background-color: #303030
 }
 #TBAtitle{
-  align-content: center;
 }
 #TBAtitle:hover{
   opacity: 0.8;
 }
 #papa{
   color: #fff
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
