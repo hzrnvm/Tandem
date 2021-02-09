@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Calcem</title>
+    <h1 id="title">Calculator Things!</h1>
+  </head>
+  <body>
+    <p>Hey, these are a bunch of calcs I made to calculate. Some of these were just to test my coding prowess, but some are acutally useful.
+    <a href="../Tandem">go home</a>
+  </body>
+</html>
