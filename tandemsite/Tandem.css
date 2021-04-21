@@ -14,6 +14,7 @@ Body{
   background-color: #00b3b3;
   font-size: 25px;
   color: #dc143c;
+  align-items: center;
 }
 #FormLink{
   color: black;
