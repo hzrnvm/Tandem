@@ -16,6 +16,36 @@ Body{
   color: #dc143c;
   text-align: center;
 }
+.image_off, #House:hover .image_on{
+   display:none
+}
+.image_on, #House:hover .image_off{
+   display:block
+}
+.image_off, #AboutMe:hover .image_on{
+   display:none
+}
+.image_on, #AboutMe:hover .image_off{
+   display:block
+}
+.image_off, #Form:hover .image_on{
+   display:none
+}
+.image_on, #Form:hover .image_off{
+   display:block
+}
+.image_off, #mathstuf:hover .image_on{
+   display:none
+}
+.image_on, #mathstuf:hover .image_off{
+   display:block
+}
+.image_off, #p3:hover .image_on{
+   display:none
+}
+.image_on, #p3:hover .image_off{
+   display:block
+}
 #FormLink{
   color: black;
   text-decoration-line: none;
