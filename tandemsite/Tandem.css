@@ -20,31 +20,31 @@ Body{
    display:none
 }
 .imgon, #House:hover .imgof{
-   display:block
+   display:inline
 }
 .imgof, #AboutMe:hover .imgon{
    display:none
 }
 .imgon, #AboutMe:hover .imgof{
-   display:block
+   display:inline
 }
 .imgof, #Form:hover .imgon{
    display:none
 }
 .imgon, #Form:hover .imgof{
-   display:block
+   display:inline
 }
 .imgof, #mathstuf:hover .imgon{
    display:none
 }
 .imgon, #mathstuf:hover .imgof{
-   display:block
+   display:inline
 }
 .imgof, #p3:hover .imgon{
    display:none
 }
 .imgon, #p3:hover .imgof{
-   display:block
+   display:inline
 }
 #FormLink{
   color: black;
