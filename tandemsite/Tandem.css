@@ -16,36 +16,7 @@ Body{
   color: #dc143c;
   text-align: center;
 }
-.imgof, #House:hover .imgon{
-   display:none
-}
-.imgon, #House:hover .imgof{
-   display:run-in
-}
-.imgof, #AboutMe:hover .imgon{
-   display:none
-}
-.imgon, #AboutMe:hover .imgof{
-   display:run-in
-}
-.imgof, #Form:hover .imgon{
-   display:none
-}
-.imgon, #Form:hover .imgof{
-   display:run-in
-}
-.imgof, #mathstuf:hover .imgon{
-   display:none
-}
-.imgon, #mathstuf:hover .imgof{
-   display:run-in
-}
-.imgof, #p3:hover .imgon{
-   display:none
-}
-.imgon, #p3:hover .imgof{
-   display:run-in
-}
+
 #FormLink{
   color: black;
   text-decoration-line: none;
